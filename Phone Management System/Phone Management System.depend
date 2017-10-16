@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508170472 source:f:\code block & c programs\c++\phone management system\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstring>
+	<ctime>
+	<bits/stdc++.h>
+
